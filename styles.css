@@ -23,8 +23,8 @@ header {
     height: auto;
     margin-bottom: 20px;
     border-radius: 50%;
-    width: 130px;
-    height: 130px;
+    width: 200px;
+    height: 200px;
 }
 
 .intro-description {
@@ -76,8 +76,8 @@ header {
 }
 
 .social-links img {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border-radius: 0; /* Elimina el formato circular */
 }
 
@@ -134,8 +134,8 @@ footer {
 }
 
 .section-content-2 img {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     border-radius: 0; /* Elimina el formato circular para las redes sociales */
 }
 
